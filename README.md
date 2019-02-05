@@ -1,7 +1,6 @@
-# SGPLVM-JCP-Experiments
-Experiments using the structured Bayesian Gaussian process latent variable model for inverse problems.
+# Experiments for "Structured Bayesian Gaussian process latent variable model: applications to data-driven dimensionality reduction and high-dimensional inversion"
 
-See [Atkinson and Zabaras (2018)](#)
+See [Atkinson and Zabaras (2019)](https://www.sciencedirect.com/science/article/pii/S0021999119300397)
 
 ## Prerequisites
 
@@ -28,5 +27,5 @@ Data used for the experiments in the paper is provided in `elliptic/data`.
 The MATLAB script for plotting the files outputted by the experiements can be 
 found at `ellitpic/matlab/plot_predictions.m`.
 
-Any questions, email [Steven Atkinson](steven@atkinson.mn) or 
+If you have any questions, please email [Steven Atkinson](steven@atkinson.mn) or 
 [Nicholas Zabaras](nzabaras@nd.edu)
